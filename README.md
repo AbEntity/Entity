@@ -13,3 +13,5 @@ Obiettivo: garantire trasparenza, equità e responsabilità nell’uso dell’in
 Ambienti accademici, laboratori di ricerca, audit algoritmici, education sull’AI responsabile.
 
 ## Installazione
+
+![ENTITY Logo](entity.png)
